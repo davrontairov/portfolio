@@ -79,7 +79,6 @@ img {
 .container {
   margin-top: 60px;
   padding-top: 40px;
-  border-top: 1px solid #000;
   border-radius: 0px;
 }
 
@@ -92,12 +91,16 @@ img {
   margin-top: 60px;
   padding-top: 40px;
   padding-bottom: 40px;
-  border-top: 1px solid #000;
 }
 
 .heading-2 {
   font-weight: 400;
   text-align: right;
+  font-size: 28px;
+}
+
+h2 {
+  font-weight: 400;
 }
 
 .div-block-2 {
@@ -183,4 +186,16 @@ img {
 .paragraph-3 {
   font-family: Georgia, Times, 'Times New Roman', serif;
   font-size: 18px;
+}
+
+.list-item {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: lightblue;
+  color: black;
 }
