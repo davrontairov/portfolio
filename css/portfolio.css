@@ -104,6 +104,12 @@ img {
   font-size: 28px;
 }
 
+.heading-3 {
+  font-weight: 400;
+  text-align: right;
+  font-size: 18px;
+}
+
 h2 {
   font-weight: 400;
 }
