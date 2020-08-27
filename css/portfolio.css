@@ -12,7 +12,10 @@ body {
   line-height: 20px;
   color: #333;
 }
-
+/* styling horizontal line */
+hr.new {
+  border: 1px solid bisque;
+}
 
 img {
   max-width: 100%;
